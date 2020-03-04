@@ -44,7 +44,7 @@ if ($register == false)
             }
     }
     }
-    }
+    
 
 
 ?>
