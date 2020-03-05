@@ -20,7 +20,7 @@ sleep(5);
 $register = register($nope);
 if ($register == false)
     {
-    echo "\e[x] Failed Get OTP!\n";
+    echo "\e[x] otp gagal jancuk !\n";
     }
   else
     {
@@ -47,7 +47,7 @@ if ($register == false)
                 echo "\e[+] ".$claim."\n";
             }
     }
-    }
+    } 
     }
 
 
